@@ -150,7 +150,7 @@ body{
     top: 0;
     left: 50%;
     transform: translateX(-300%);
-    margin-top: 1680px;
+    margin-top: 1620px;
     z-index: 1;
   }
     .comillasc{
@@ -159,7 +159,7 @@ body{
         top: 0;
         left: 50%;
         transform: translateX(220%);
-        margin-top: 1910px;
+        margin-top: 1790px;
         z-index: 1;
   }
   .texto {
